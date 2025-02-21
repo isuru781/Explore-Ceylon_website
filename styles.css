@@ -40,7 +40,7 @@ body {
   }
   
   .logo a {
-    color: #007bff;
+    color:rgba(235, 239, 27, 1);
     text-decoration: none;
     font-size: 1.8em;
     font-weight: bold;
@@ -135,6 +135,7 @@ body {
   }
   
   #about h2 {
+      
     margin-bottom: 30px;
   }
   
