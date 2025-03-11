@@ -98,7 +98,7 @@ nav {
   align-items: center;
   justify-content: space-between;
   padding: 100px;
-  background: linear-gradient(to right, #19326b, #819a12);
+  background: linear-gradient(to right, #1c387b, #819a12);
   color: white;
 
   position: relative;
@@ -197,7 +197,7 @@ nav {
 /* CTA Button */
 .cta-button {
   display: inline-block;
-  background-color: #1756ae;
+  background-color: #e9ed09;
   color: #fff;
   padding: 12px 25px;
   text-decoration: none;
